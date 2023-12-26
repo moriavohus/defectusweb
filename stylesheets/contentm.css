@@ -1,0 +1,153 @@
+body {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-family: 'FormaDGRDisplay', sans-serif;
+    background-color: #f2ff04;
+    overflow-x: hidden;
+    width: 100%;
+    display: block;
+    margin: 0 auto;
+    position: absolute;
+  }
+
+.firstblock{
+    width: 100%;
+    overflow: hidden;
+}
+.firstovoshi{
+    height: 100%;
+    width: 100%;
+    display: flex;
+}
+.recf{
+    position: absolute;
+    margin-top: 0vw;
+    width: 100vw;
+}
+.ram{
+    position: absolute;
+    margin-top: 0vw;
+    width: 100vw;
+}
+.rampep{
+    position: absolute;
+    width: 44vw;
+    margin-left: 56%;
+
+}
+.ramtom{
+position: absolute;
+
+}
+.grush{
+position: absolute;
+margin-left: 2.92vw;
+margin-top: 3.68vw;
+width: 28.89vw;
+}
+.tom{
+position: absolute;
+margin-left: 33.68vw;
+margin-top: 22.64vw;
+width: 21.53vw;
+}
+.pep{
+position: absolute;
+margin-left: 61.11vw;
+margin-top: 39.24vw;
+width: 33.89vw;
+}
+
+.ruletk{
+    position: absolute;
+    width: 65.63vw;
+    margin-top: 2vw;
+    margin-left: 34vw;
+}
+.krasivo{
+    font-size: 54px;
+    margin-left: 84.10vw;
+    margin-top: 60vw;
+}
+.svet1{
+    position: absolute;
+    left: 34.43%; 
+    right: 54.9%;
+    top: 0.35%;
+    opacity: 0;
+
+}
+.svet1:hover{
+    opacity: 1;
+    transition: all .3s;
+}
+.svet2{
+    position: absolute;
+    left: 34.43%; 
+    right: 54.9%;
+    top: 0.35%;   
+}
+.sverhu{
+    position: absolute;
+}
+.snizu{
+    position: absolute;
+}
+.potat{
+    position: absolute;
+    width: 20.28vw;
+    margin-top: 167.99vw;
+    margin-left: 12.08vw;
+}
+.klub{
+    position: absolute;
+    width: 17.99vw;
+    margin-top: 161.60vw;
+    margin-left: 35.49vw;
+}
+.carr{
+    position: absolute;
+    width: 28.47vw;
+    margin-top: 84.03vw;
+    margin-left: 35vw;
+}
+.baclaj{
+    position: absolute;
+    width: 17.71vw;
+    margin-top: 100vw;
+    margin-left: 74.58vw;
+}
+.arbuz{
+    position: absolute;
+    width: 10.07vw;
+    margin-top: 80.21vw;
+    margin-left: 69.24vw;
+}
+.limon{
+    position: absolute;
+    width: 19.03vw;
+    margin-top: 131.04vw;
+    margin-left: 69.65vw;
+}
+.mork{
+    position: absolute;
+    width: 20.14vw;
+    margin-top: 113.54vw;
+    margin-left: 69.44vw;
+}
+.vih{
+    position: absolute;
+    width: 65vw;
+    margin-left: 34.44vw;
+    margin-top: 0.35vw;
+}
+.grani{
+    position: absolute;
+    width: 32vw;
+    margin-top: 90vw;
+    margin-left: 1vw;
+}
+
+
+
+

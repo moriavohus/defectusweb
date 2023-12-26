@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'FormaDGRDeck';
+    src: url("../fonts/FormaDeck.otf") format("opentype");
+    font-style: normal;
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: 'FormaDGRDisplay';
+    src: url("../fonts/FormaDisplay.otf") format("opentype");
+    font-style: normal;
+    font-weight: 300;
+}
